@@ -21,9 +21,9 @@ pytest -s
 Progress:
 
 - [x] Day 1 (2/2)
-- [ ] Day 2
-- [ ] Day 3
-- [ ] Day 4
+- [x] Day 2 (2/2)
+- [x] Day 3 (2/2)
+- [x] Day 4 (2/2)
 - [ ] Day 5
 - [ ] Day 6
 - [ ] Day 7
