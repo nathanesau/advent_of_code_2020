@@ -103,5 +103,5 @@ def test_solution_2():
     data = read_input()
     arr = parse_data(data)
     s2 = solution_2(arr)
-    assert s2 == 235
+    assert s2 == 194
     print("\nSolution 1: {}".format(s2))
