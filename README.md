@@ -20,11 +20,11 @@ pytest -s
 
 Progress:
 
-- [x] Day 1 (2/2)
-- [x] Day 2 (2/2)
-- [x] Day 3 (2/2)
-- [x] Day 4 (2/2)
-- [ ] Day 5
+- [x] Day 1 (2/2) https://youtu.be/SaMskkXr_GI
+- [x] Day 2 (2/2) https://youtu.be/YOp06zqBGu8
+- [x] Day 3 (2/2) https://youtu.be/aL0c4FsS-IA
+- [x] Day 4 (2/2) https://youtu.be/nuUZYEMams4
+- [x] Day 5 (2/2) https://youtu.be/YwnelftYpvA
 - [ ] Day 6
 - [ ] Day 7
 - [ ] Day 8
