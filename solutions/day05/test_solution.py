@@ -30,15 +30,16 @@ def test_solution_1():
     """
     arr = read_input()
     s1 = solution_1(arr)
-    # assert s1 == 357
+    assert s1 == 828
     print("\nSolution 1: {}".format(s1))
 
 
 def test_solution_2():
     """
-    it doesn't make sense to use example data for this
+    NOTE: it doesn't make sense to use example data for this
+    use input.txt
     """
     arr = read_input()
     s1 = solution_2(arr)
-    #assert s1 == 820
-    print("\nSolution 1 Example: {}".format(s1))
+    assert s1 == 565
+    print("\nSolution 2: {}".format(s1))
