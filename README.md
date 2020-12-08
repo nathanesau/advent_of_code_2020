@@ -26,7 +26,7 @@ Progress:
 - [x] Day 4 (2/2) https://youtu.be/nuUZYEMams4
 - [x] Day 5 (2/2) https://youtu.be/YwnelftYpvA
 - [x] Day 6 (2/2) https://youtu.be/K41VsUsPqaI
-- [ ] Day 7
+- [x] Day 7 (2/2) https://youtu.be/FPKAS6vX1O4
 - [ ] Day 8
 - [ ] Day 9
 - [ ] Day 10
