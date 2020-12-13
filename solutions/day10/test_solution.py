@@ -50,9 +50,42 @@ def test_solution_2_example():
     """
     provided example
     """
-    arr = [1, 4, 5, 6, 7, 10, 11, 12, 15, 16, 19]
-    s1 = solution_2(arr)
-    assert s1 == 8
+    data = """
+    28
+    33
+    18
+    42
+    31
+    14
+    46
+    20
+    48
+    47
+    24
+    23
+    49
+    45
+    19
+    38
+    39
+    11
+    1
+    32
+    25
+    35
+    8
+    17
+    7
+    9
+    4
+    2
+    34
+    10
+    3
+    """
+    arr = [0] + [int(line.strip()) for line in data.splitlines() if line.strip()]
+    s2 = solution_2(arr)
+    assert s2 == 8
 
 
 def test_solution_2():
@@ -60,6 +93,6 @@ def test_solution_2():
     use input.txt
     """
     data = read_input()
-    arr = [int(line.strip()) for line in data.splitlines() if line.strip()]
+    arr = [0] + [int(line.strip()) for line in data.splitlines() if line.strip()]
     s2 = solution_2(arr)
-    assert s2 == 86812553324672
+    assert s2 == 173625106649344
