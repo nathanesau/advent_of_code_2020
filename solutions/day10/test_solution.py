@@ -1,8 +1,7 @@
 import os
 from .solution import (
     solution_1,
-    solution_2,
-    solution_2_alternate
+    solution_2
 )
 
 
