@@ -31,7 +31,7 @@ Progress:
 - [x] Day 9 (2/2) https://youtu.be/lLnWlTMe3Kk
 - [x] Day 10 (2/2)
 - [x] Day 11 (2/2)
-- [ ] Day 12
+- [x] Day 12 (2/2)
 - [x] Day 13 (2/2)
 - [ ] Day 14
 - [ ] Day 15
